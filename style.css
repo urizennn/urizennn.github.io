@@ -1,0 +1,28 @@
+.jumbotron {
+  padding-top: 6rem;
+  background-color: #0d6efd;
+}
+
+.jumbotron h1 {
+  color: #fff;
+}
+
+body {
+  min-height: 2000px;
+}
+
+.aboutt p {
+  text-align: justify;
+}
+
+.projectss {
+  background-color: #0d6efd;
+}
+
+footer a {
+  text-decoration: none;
+}
+
+section {
+  padding-top: 5rem;
+}
